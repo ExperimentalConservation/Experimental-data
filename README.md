@@ -13,10 +13,20 @@ The repository will be split into different folders (experiments) containing met
 The following (in no particular order) have either contributed to the collection of the data in this repository or the design of the experiments. 
 
 Chris Clements
+
 Philip Warren
+
 Owen Petchey
+
 Nicholas Worsfold
+
 Gaurav Baruah 
+
+Edd Hammill
+
 Ellie Wolfe
+
 Nic Clarke
+
 Arpat Ozgul
+

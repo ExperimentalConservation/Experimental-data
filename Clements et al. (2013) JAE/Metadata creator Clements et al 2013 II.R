@@ -1,4 +1,5 @@
 ## eme scheme trial 2
+rm(list=ls())
 
 library(devtools)
 
@@ -9,7 +10,12 @@ library(devtools)
 library(dmdScheme)
 library(emeScheme)
 
-open_new_spreadsheet(keepData=T, format=F)
+#open_new_spreadsheet(keepData=T, format=F)
 
-report("EXP 1 meta.xlsx", "~/Desktop/Work/Experimental-data/Clements et al. (2013) JAE/", report = "html")
+##set wd
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
+x<-validate("EXP 1 meta.xlsx")
+
+report('EXP 1 meta.xlsx', '~/Desktop/Work/Experimental-data/Clements et al. (2013) JAE', report = "html")
 

@@ -6,9 +6,10 @@ library(devtools)
 ##install various packages
   ##devtools::install_github("Exp-Micro-Ecol-Hub/dmdScheme", ref = "master", build_opts = c("--no-resave-data"))
   ##devtools::install_github("Exp-Micro-Ecol-Hub/emeScheme", ref = "master", build_opts = c("--no-resave-data"))
+devtools::install_github("Exp-Micro-Ecol-Hub/dmdScheme", ref = "prepareReleaseCRAN", build_opts = c("--no-resave-data"))
 
 library(dmdScheme)
-library(emeScheme)
+#library(emeScheme)
 
 #open_new_spreadsheet(keepData=T, format=F)
 

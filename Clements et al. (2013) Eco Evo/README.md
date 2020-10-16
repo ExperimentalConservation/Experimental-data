@@ -2,21 +2,25 @@
 
 ## Introduction
 
-Data from Clements, C., Worsfold, N., Warren, P., Collen, B., Blackburn, T., Clark, N., Petchey, O.  Experimentally testing an extintion estimator: Solow's  Optimal Linear Estmation model.Journal of Animal Ecology, 82, p345-354.
+Data from Clements, C., Warren, P., Collen, B., Blackburn, T., Worsfold, N., Petchey, O. Interactions between assembly order and temperature can alter both short and long-term community composition. Ecology & Evolution, 3(16): 5201–5208
 
 ## Structure
 
 Jar - a unique number for each microcosm. 
 
-Species - the species ID contained in each jar. Jars can contain 1-4 species.
+Species - the species ID for which the abundance counts are fore. Jars can contain 1-3 species.
+
+Community - a three letter code indicating the order in which the species were added to the jar. PLB indicates Paramecium was added on day 0, Loxocephalus on day 7, and Blepharisma on day 14. ALL indicates all species were added simultaneously on day 0. The community is one of the treatments (along with temperature). 
+
+Replicate - Replicate number for each unique set of temperature and community combinations.
 
 Day - Day on which the data were recorded
 
-Treatment - temperature treatment in degrees C (15 or 20). Temperatures kept constant through time.
+Temperature - temperature treatment each community was kept at in degrees C (11, 14, 17, 20, 23, or 26 degrees). Temperatures kept constant through time.
 
-Replicate - Replicate number for each unique set of treatment and community combinations.
+Abundance - The total abundance for each species in each jar. 
 
-Community - The identities of all of the species in a jar. For jars containing a single species this is just a single species name, for those containing multiple species this is a list of species names. 
+
 
 Community.Complexity - The number of species in a jar (from 1 to 4).
 

@@ -21,35 +21,38 @@ Temperature - temperature treatment each community was kept at in degrees C (11,
 Abundance - The total abundance for each species in each jar. 
 
 
-
-Community.Complexity - The number of species in a jar (from 1 to 4).
-
-td - the abundance of a species in a jar.
-
 ## Treatments
 
-There was a single temperature treatment (microcosms kept at either 15 or 20 degrees C). 
+Species were either added sequentially (order defined by the Community column, see above) or simultaneously (ALL) at one of 6 different temperatures. Temperature was kept constant through time, with abundances measured on a weekly basis. 
+
+There were 6 different communities set up via the assembly process:
+
+[1] BPL
+[2] BLP
+[3] PBL
+[4] PLB
+[5] LBP
+[6] LPB
+[7] ALL
+
+The six constant temperatures used were 11, 14, 17, 20, 23, and 26°C. 
+
 
 ## Set up details
 
 ### Microcosms
-Microcosms were lidded Petri dishes with a diameter of 100mm. Each contained 50mL of protist media. 
+Microcosms were lidded Petri dishes with a diameter of 100mm. Each contained 50mL of protist media. Each combination of treatment was replicated three times.
 
 ### Nutrients
 
-The medium solution contained 0!1 g of crushed protozoa pellets (Carolina Biological Supply, USA) per litre of Chalkley’s medium (Thompson, Rhodes & Pettman 1988).
+The medium solution contained 0.2 g of crushed protozoa pellets (Carolina Biological Supply, USA) per litre of Chalkley’s medium (Thompson, Rhodes & Pettman 1988).
 
 ### Bacteria
 
-The medium was inoculated with the bacteria Bacillus cereus, B. subtilis and Serratia marcescens on day -2.
+The medium was inoculated with the bacteria Bacillus cereus and Serratia marcescens on day -7.
 
-### Communities
 
-There were 15 different communities set up at the beginning of the experiment. These featured every combination of the species P. caudatum, Loxocephalus, Blepharisma japonicum, and Colpidium striatum in communities of 1, 2, 3, and 4 species:
-
- [1] P.caudatum                                           [2] Loxocephalus                                         [3] Colpidium                                            [4] Blepharisma                                          [5] Paramecium caudatum + Loxocephalus                   [6] Paramecium caudatum + Blepharisma                    [7] Paramecium caudatum + Colpidium                      [8] Loxocephalus + Blepharisma                           [9] Loxocephalus + Colpidium                            [10] Blepharisma + Colpidium                             [11] P.caudatum + Loxocephalus + Blepharisma             [12] P.caudatum + Loxocephalus + Colpidium               [13] P.caudatum + Blepharisma + Colpidium                [14] Loxocephalus + Blepharisma + Colpidium              [15] P. caudatum + Loxocephalus + Blepharisma + Colpidium
 
 ## References
 
-Clements, C. F., Worsfold, N. N., Warren, P., Collen, B., Blackburn, T., Clark, N., & Petchey, O. L. (2013). Experimentally testing the accuracy of an extinction estimator: Solow’s optimal linear estimation model. Journal of Animal Ecology, 82(2), 345–354. doi: 10.1111/1365-2656.12005
-
+Clements, C., Warren, P., Collen, B., Blackburn, T., Worsfold, N., Petchey, O. Interactions between assembly order and temperature can alter both short and long-term community composition. Ecology & Evolution, 3(16): 5201–5208

@@ -29,9 +29,13 @@ Treatments consisted of a reduction in fishing pressures at various rates:
 0 = control group
 
 10 = fishing pressure reduced to zero from 2010 levels over 10 years
+
 20 = fishing pressure reduced to zero from 2010 levels over 10 years
+
 30 = fishing pressure reduced to zero from 2010 levels over 10 years
+
 40 = fishing pressure reduced to zero from 2010 levels over 10 years
+
 50 = fishing pressure reduced to zero from 2010 levels over 10 years
 
 ## Set up details

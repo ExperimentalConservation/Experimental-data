@@ -6,7 +6,7 @@ Data on the temperature responses of protist species used in the Experimental Ec
 
 # Structure
 
-![alt text](https://github.com/chrit88/Experimental-data/blob/master/Temperature%20response%20curves%20(2022)/Protist%20growth%20curves%20r%20and%20K.R)
+![plot](./Experimental-data/Temperature response curves (2022)/r_K_plot.png)
 
 [alt text](https://https://github.com/chrit88/Experimental-data/blob/[branch]/image.jpg?raw=true)
 

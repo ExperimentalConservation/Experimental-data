@@ -6,12 +6,8 @@ setwd(getwd())
 
 #Set all time to hours, remove unnecessary columns and data we don't need
 #load growth and decline curve data
-d_growth<-read.xlsx("Prey growth curves all data.xlsx",
-                    sheet = "Growth curves",colNames = T,
-                    detectDates = T)
-
-d_decline <-read.xlsx("Prey growth curves all data.xlsx",
-                      sheet = "Decline curves",colNames = T)
+d_growth<-read.csv("Prey growth curves.csv")
+d_decline <-read.csv("Prey decline curves.csv")
 
 #convert date into hours separately for each temperature
 split_temps <- split(d_growth, f = d_growth$Temperature)

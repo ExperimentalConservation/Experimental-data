@@ -10,7 +10,7 @@ Data on the temperature responses of protist species used in the Experimental Ec
 
 # Data structure
 
-Some stuff here
+Consists of two data files, one for the growth rates at different temperatures, and one for temperatures where populations decline (sampled at a higher frequency) which gives estimates of negative growth rates from the starting experimental abundances.
 
 # Authors
 

@@ -4,6 +4,8 @@
 
 Data from Wolfe, E., Hammill, E., Memmott, J., Clements, C. Different tactics are needed to preserve specialist versus generalist predators in protected areas.
 
+https://link.springer.com/article/10.1007/s00442-022-05178-9
+
 ## Structure
 
 Microcosm - a unique code for each microcosm.
